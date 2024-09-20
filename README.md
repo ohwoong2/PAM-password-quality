@@ -1,0 +1,1 @@
+# PAM-password-quality
